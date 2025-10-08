@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://github.com/aaronherg/README/blob/main/recursos/Developer.gif?raw=true" href="https://github.com/aaronherg" alt="Aaron Developer"  width="60%"/><br> 
-<img src="https://github.com/aaronherg/README/blob/main/recursos/dino_rounded.gif?raw=true" href="https://github.com/aaronherg" alt="Aaron Developer" width="70%"/> <br>
+<img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/Developer.gif?raw=true" href="https://github.com/aaronherg" alt="Aaron Developer"  width="60%"/><br> 
+<img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/dino_rounded.gif?raw=true" href="https://github.com/aaronherg" alt="Aaron Developer" width="70%"/> <br>
 
 <p><strong>Trabajando por cuenta propia.
 <br><br> Música : 🎧  </strong></p>
@@ -60,25 +60,25 @@ class About extends Me {
 
 ```
 
--  <img alt="GIF" src="https://github.com/aaronherg/README/blob/main/recursos/Developer.gif" width="25" /> &nbsp; Actualmente estoy aprendiendo **Flutter y WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/aaronherg/README/blob/main/recursos/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Me gusta explorar **GNU/Linux**. <br>
-- <img src="https://github.com/aaronherg/README/blob/main/recursos/message.gif?raw=true" width="25" />&nbsp;&nbsp; Puedes preguntarme y sugerir por mis via de comunicación. <br>
-- <img src="https://github.com/aaronherg/README/blob/main/recursos/letterbox.gif?raw=true" width="25" /> &nbsp; Mi Telegram oficial: **[⚡](https://t.me/Aaron_Garcia)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/aaronherg/README/blob/main/recursos/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Dato curioso: golpearse la cabeza contra la pared durante una hora provoca quemaduras, por si no lo sabias...**150 calories**.<br>
+-  <img alt="GIF" src="https://github.com/aaronherg/aaronherg/blob/main/recursos/Developer.gif" width="25" /> &nbsp; Actualmente estoy aprendiendo **Flutter y WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Me gusta explorar **GNU/Linux**. <br>
+- <img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/message.gif?raw=true" width="25" />&nbsp;&nbsp; Puedes preguntarme y sugerir por mis via de comunicación. <br>
+- <img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/letterbox.gif?raw=true" width="25" /> &nbsp; Mi Telegram oficial: **[⚡](https://t.me/Aaron_Garcia)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Dato curioso: golpearse la cabeza contra la pared durante una hora provoca quemaduras, por si no lo sabias...**150 calories**.<br>
 
 <div align="center" >
 <a  href="https://github.com/aaronherg">
 
-<img src="https://github.com/aaronherg/README/blob/main/recursos/graficos/3-stats.svg" width="32.5%">
-<img src="https://github.com/aaronherg/README/blob/main/recursos/graficos/1-repos-per-language.svg" width="32.5%">
-<img src="https://github.com/aaronherg/README/blob/main/recursos/graficos/2-most-commit-language.svg" width="32.5%">
+<img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/graficos/3-stats.svg" width="32.5%">
+<img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/graficos/1-repos-per-language.svg" width="32.5%">
+<img src="https://github.com/aaronherg/aaronherg/blob/main/recursos/graficos/2-most-commit-language.svg" width="32.5%">
 
 </a>
 
 <details>
   <summary>Ver Más</summary>
   
-<img align="center" src="https://github.com/aaronherg/README/blob/main/recursos/graficos/0-profile-details.svg" >
+<img align="center" src="https://github.com/aaronherg/aaronherg/blob/main/recursos/graficos/0-profile-details.svg" >
 
 </details>
   
